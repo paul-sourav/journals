@@ -1,0 +1,3 @@
+left-side-entry {E6EDEC}
+left-side-button fontcolor {2B4477}
+right-side-entry {F0EEED}
