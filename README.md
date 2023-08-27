@@ -15,7 +15,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/paul-sourav/your-repo.git
+git clone https://github.com/paul-sourav/journals.git
 
 # Change directory
 cd your-repo
